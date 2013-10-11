@@ -1,5 +1,17 @@
 (function () {
 
+  // creates a new empty collection of products
+  var product = new Products();
+
+})();
+
+
+
+
+
+
+(function () {
+
   var productOne = new Product({
     name: 'Honey Bees',
     description: 'buzz buzz buzz :) '
